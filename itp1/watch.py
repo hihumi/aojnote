@@ -10,6 +10,6 @@ def watch():
     h = S // HOUR_SECOND
     m = (S % HOUR_SECOND) // MINUTE_SECOND
     s = (S % HOUR_SECOND) % MINUTE_SECOND
-    print("{0}:{1}:{2}".format(h, m, s))
+    print('{0}:{1}:{2}'.format(h, m, s))
 
 watch()
