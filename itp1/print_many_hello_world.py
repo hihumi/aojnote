@@ -10,5 +10,5 @@ def print_many_hello_world():
     # Presentation Error:
     # hw1000 = "Hello World\n" * 1000
     # print(hw1000)
-
-print_many_hello_world()
+if __name__ == '__main__':
+    print_many_hello_world()

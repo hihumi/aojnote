@@ -8,4 +8,5 @@ def range():
     else:
         print('No')
 
-range()
+if __name__ == '__main__':
+    range()

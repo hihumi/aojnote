@@ -6,4 +6,5 @@ def rectangle():
     perimater = 2 * (a + b)
     print('{0} {1}'.format(area, perimater))
 
-rectangle()
+if __name__ == '__main__':
+    rectangle()

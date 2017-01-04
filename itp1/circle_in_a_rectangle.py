@@ -21,4 +21,5 @@ def circle_in_a_rectangle():
     else:
         print('Yes')
 
-circle_in_a_rectangle()
+if __name__ == '__main__':
+    circle_in_a_rectangle()

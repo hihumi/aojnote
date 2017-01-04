@@ -10,4 +10,5 @@ def small_large_or_equal():
     else:
         print('a == b')
 
-small_large_or_equal()
+if __name__ == '__main__':
+    small_large_or_equal()

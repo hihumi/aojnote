@@ -5,4 +5,5 @@ def x_cubic():
     res = x**3
     print(res)
 
-x_cubic()
+if __name__ == '__main__':
+    x_cubic()

@@ -18,4 +18,5 @@ def sorting_three_numbers():
     #[print('{} '.format(i), end = '') for i in res]
     #print()
 
-sorting_three_numbers()
+if __name__ == '__main__':
+    sorting_three_numbers()
