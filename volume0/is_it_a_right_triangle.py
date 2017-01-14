@@ -11,7 +11,7 @@ def is_it_a_right_triangle():
             stack.append(i)
         stack.sort()
 
-        if (stack[0] ** 2) + (stack[1] ** 2) == stack[2] ** 2:
+        if (stack[0]**2) + (stack[1]**2) == stack[2]**2:
             print('YES')
         else:
             print('NO')
@@ -19,7 +19,7 @@ def is_it_a_right_triangle():
     # or
     # for i in range(n):
     #     a, b, c = map(int, input().split())
-    #     if (a * a) + (b * b) == (c * c) or (a * a) + (c * c) == (b * b) or (b * b) + (c * c) == (a * a):
+    #     if (a*a) + (b*b) == (c*c) or (a*a) + (c*c) == (b*b) or (b*b) + (c*c) == (a*a):
     #         print('YES')
     #     else:
     #         print('NO')
