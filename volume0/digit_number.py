@@ -1,6 +1,8 @@
 #!/usr/bin_env python3
 
+
 import sys
+
 
 def digit_number():
     line = sys.stdin.readlines()

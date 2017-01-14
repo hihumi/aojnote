@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def list_of_top3_hills():
     stack1 = []
     for i in range(10):
