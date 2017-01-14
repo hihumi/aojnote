@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def how_many_divisors():
     a, b, c = map(int, input().split())
 

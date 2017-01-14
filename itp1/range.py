@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def range():
     a, b, c = map(int, input().split())
 

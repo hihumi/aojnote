@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def swapping_two_numbers():
     while True:
         x, y = map(int, input().split())

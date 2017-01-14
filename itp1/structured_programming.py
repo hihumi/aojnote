@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def structured_programming():
     x = int(input())
 

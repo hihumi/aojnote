@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def finding_missing_cards():
     deck_l = [
         '{0} {1}'.format(suit, rank)

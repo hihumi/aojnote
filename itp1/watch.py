@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def watch():
     # S: 46979
     S = int(input())

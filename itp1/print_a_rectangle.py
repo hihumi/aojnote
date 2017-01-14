@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def print_a_rectangle():
     while True:
         H, W = list(map(int, input().split()))

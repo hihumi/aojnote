@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def print_a_frame():
     hash_str = '#'
     dot_str = '.'

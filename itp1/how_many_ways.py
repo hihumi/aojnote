@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def how_many_ways():
     while True:
         n, m = map(int, input().split())

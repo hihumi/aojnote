@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def sorting_three_numbers():
     num_list = list(map(int, input().split()))
 

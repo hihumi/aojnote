@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def reversing_numbers():
     n1 = int(input())
     n2 = list(map(int, input().split()))

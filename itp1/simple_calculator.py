@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def simple_calculator():
     while True:
         a, op, b = input().split()

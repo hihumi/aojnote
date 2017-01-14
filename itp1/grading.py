@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def grading():
     while True:
         m, f, r = map(int, input().split())

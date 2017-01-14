@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def circle_in_a_rectangle():
     #input: 5 4 2 2 1
     W, H, x, y, r = map(int, input().split())

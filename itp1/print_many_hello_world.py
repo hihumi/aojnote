@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-#Print Many Hello World
+
 def print_many_hello_world():
 
     hw = 'Hello World'

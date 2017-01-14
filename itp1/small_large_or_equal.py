@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def small_large_or_equal():
     a, b = map(int, input().split())
 

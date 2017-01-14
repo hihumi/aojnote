@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def rectangle():
     a, b = map(int, input().split())
     area = a * b

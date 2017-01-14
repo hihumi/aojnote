@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def is_it_a_right_triangle():
     n = int(input())
 

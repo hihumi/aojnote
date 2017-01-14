@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def print_a_chessboard():
     hash_str = '#'
     dot_str = '.'
@@ -21,7 +22,7 @@ def print_a_chessboard():
                     print(hash_dot_str * (W // 2))
             else:
                 if W % 2 != 0:
-                    print(dot_hash_str * (W // 2) + dot_str)
+                    print(dot_hash_str * (W //2 ) + dot_str)
                     continue
                 else:
                     print(dot_hash_str * (W // 2))

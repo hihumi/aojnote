@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def matrix_vector_multiplication():
     n, m = map(int, input().split())
 

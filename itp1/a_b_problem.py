@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 def a_b_problem():
     a, b = map(int, input().split())
 
