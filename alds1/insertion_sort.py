@@ -9,11 +9,11 @@ def insertion_sort(A, N):
             A[j + 1] = A[j]
             j -= 1
         A[j + 1] = v
-        
+
         print(' '.join(map(str, A)))
 
 if __name__ == '__main__':
-    N = int(input())
-    A = list(map(int, input().split()))
-    print(' '.join(map(str, A)))
-    insertion_sort(A, N)
+    n = int(input())
+    a = list(map(int, input().split()))
+    print(' '.join(map(str, a)))
+    insertion_sort(a, n)
