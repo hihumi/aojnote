@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
 
 
-print('init volume0')
+print('volume0 init')

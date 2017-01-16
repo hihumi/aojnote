@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
 
 
-print('init alds1')
+print('alds1 init')
